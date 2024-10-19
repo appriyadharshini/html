@@ -1,0 +1,21 @@
+p{
+    color:blue;
+    font-size: 64px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1, h2{
+    color: rgb(212, 11, 135);
+}
+main{
+    font-size: 22px;
+}
+.phrase1{
+    color: blue;
+    font-size: 28px;
+}
+#phrase2id{
+    color: orange ;
+}
+.highlight{
+    background-color: yellow;
+}
